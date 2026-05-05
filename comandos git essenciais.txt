@@ -1,0 +1,7 @@
+Bash
+git config --global core.autocrlf true
+O que esse comando faz?
+
+Ao baixar código (Pull): Ele converte de LF para CRLF para você editar confortavelmente no Windows.
+
+Ao enviar código (Push): Ele converte de volta para LF. Isso é fundamental, pois quando você subir seu código para a AWS ou usar o Terraform, os servidores lá esperam o padrão LF para não dar erro nos scripts.

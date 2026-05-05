@@ -1,0 +1,17 @@
+DIO-GFT/
+├── 01-Fundamentos-Cloud/
+│   ├── Anotacoes.md
+│   └── Desafio-01-Resumo/
+├── 02-AWS-Core-Services/
+│   ├── EC2-Instancias/
+│   │   └── comandos-uteis.txt
+│   ├── S3-Storage/
+│   │   └── exercicio-bucket.sh
+│   └── RDS-Databases/
+├── 03-Infraestrutura-como-Codigo/
+│   ├── Terraform-Basico/
+│   │   ├── main.tf
+│   │   └── variables.tf
+│   └── Desafio-Final-Terraform/
+└── 04-Automacao-Python/
+    └── scripts-aws-boto3/
